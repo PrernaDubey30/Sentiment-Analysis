@@ -11,4 +11,5 @@ This project focuses on sentiment analysis, a technique used to determine the se
 
 ## Technologies Used-
 Language: python
+
 Libraries: nltk, spaCy, scikit-learn
